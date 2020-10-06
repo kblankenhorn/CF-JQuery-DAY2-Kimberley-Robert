@@ -1,0 +1,31 @@
+#boxes {
+    display: flex;
+    width: 100%
+}
+
+#draggable1,
+#draggable2,
+#draggable3,
+#draggable4 {
+    width: 100px;
+    height: 100px;
+    padding: 0.5em;
+    border: solid red;
+    border-radius: 25%;
+}
+
+#draggable1 {
+	background: gray;
+}
+
+#draggable2 {
+	background: green;
+}
+
+#draggable3 {
+	background: pink;
+}
+
+#draggable4 {
+	background: orange;
+}

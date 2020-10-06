@@ -1,30 +1,36 @@
 var images = `[{
 "name":"Karen", 
 "image":"images/woman.jpg",
-"relation":"Mom"
+"relation":"Mom",
+"hobby":"loves Sewing"
 },
 {
-"name":"Billy Joe Bob",
+"name":"Billy",
 "image":"images/man.jpg",
-"relation":"Dad"
+"relation":"Grandpa",
+"hobby":"enjoys fishing"
 },
 {
 "name":"Taylor",
 "image":"images/child2.jpg",
-"relation":"Sister"
+"relation":"Sister",
+"hobby":"loves eating"
 },
 {
 "name":"Max",
 "image":"images/child1.jpg",
-"relation":"Brother"
+"relation":"Brother",
+"hobby":"obsessed with airplanes"
 },
 {
 "name":"Susie",
 "image":"images/child3.jpg",
-"relation":"sister"
+"relation":"sister",
+"hobby":"can't stop painting"
 },
 {
 "name":"Pete",
 "image":"images/bulldog.jpg",
-"relation":"family dog"
+"relation":"family dog",
+"hobby":"just likes to chew on a bone"
 }]`;

@@ -1,0 +1,30 @@
+var images = `[{
+"name":"Karen", 
+"image":"images/woman.jpg",
+"relation":"Mom"
+},
+{
+"name":"Billy Joe Bob",
+"image":"images/man.jpg",
+"relation":"Dad"
+},
+{
+"name":"Taylor",
+"image":"images/child2.jpg",
+"relation":"Sister"
+},
+{
+"name":"Max",
+"image":"images/child1.jpg",
+"relation":"Brother"
+},
+{
+"name":"Susie",
+"image":"images/child3.jpg",
+"relation":"sister"
+},
+{
+"name":"Pete",
+"image":"images/bulldog.jpg",
+"relation":"family dog"
+}]`;
